@@ -1,0 +1,46 @@
+{
+  "name": "hiyobi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "y71wB3gKbEsBHTY06jY4jUHvvbL9K3xuYuYG5Su3AF8bPGNXrtcE6TeWKCMiM06zazC7ER7OS9jwQ1XJntH2UcCqwGU4Gvp2lc4+jJGpThDdwxqnDPOadV9zu/R1+OXhXVrfHkHM0f/3JUPRzj+C08tobdCqMNmKqYX3vGMqkhgV5bwt6YvYnWe/vz/VBFYy7BOoWwFhflJDIOeNtd63zA==",
+  "license": "ISC",
+  "dependencies": {
+    "apicache": "^1.5.3",
+    "connect-redis": "^4.0.4",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-device": "^0.4.2",
+    "express-fileupload": "^1.1.6",
+    "express-session": "^1.17.0",
+    "istorexit": "^0.10.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.6.2",
+    "mysql2": "^2.1.0",
+    "nanoid": "^3.1.16",
+    "nodemailer": "^6.4.2",
+    "redis": "^3.0.2",
+    "request": "^2.88.2",
+    "sanitize-html": "^1.22.0",
+    "squel": "^5.13.0",
+    "uuid": "^7.0.2",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^2.2.1"
+  }
+}

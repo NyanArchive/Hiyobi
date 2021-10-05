@@ -1,0 +1,9 @@
+const consts = {
+  PAGELIMIT_GALLERY: 15,
+  PAGELIMIT_BBS: 20,
+  BBS_IMAGEFILE_SIZELIMIT: 20000000, // 10MB
+  BBS_IMAGEFILE_UPLOADIP: "",
+  GALLERY_COUNTDUPTIME: 300, // 5min
+};
+
+module.exports = consts;
